@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/KwitterApp/static/js/main.e78e2415.js",
+    "static/js/787.f2829d9a.chunk.js": "/KwitterApp/static/js/787.f2829d9a.chunk.js",
+    "index.html": "/KwitterApp/index.html",
+    "main.e78e2415.js.map": "/KwitterApp/static/js/main.e78e2415.js.map",
+    "787.f2829d9a.chunk.js.map": "/KwitterApp/static/js/787.f2829d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e78e2415.js"
+  ]
+}
